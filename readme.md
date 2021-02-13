@@ -23,3 +23,10 @@ NLTK (wordnet)
 9 Your satisfaction towards the charges you paid for the last service
 10 Your satisfaction towards the follow-up calls made by the  dealership post servicing of your vehicle to check your service experience and car condition
 11 No improvement required
+
+<<<<<<< HEAD
+
+ddddd
+sssss
+=======
+>>>>>>> 7d07f401319cf8b6d6b30928fdba951a222b38f2
